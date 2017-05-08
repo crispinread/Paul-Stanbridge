@@ -736,9 +736,11 @@ nav#menu #menu-nav li a:hover {
 	margin: 0;
 }
 /* ==================================================
-   Section Events
+   Section Work
 ================================================== */
-
+.awards div{
+	text-align: center;
+}
 
 /* ==================================================
    Section Portfolio

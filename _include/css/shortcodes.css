@@ -494,10 +494,11 @@ blockquote small:before {
 	line-height: 1em;
 	text-transform: uppercase;
 }
-
+/*
 .info-block p {
 	margin-bottom: 0;	
 }
+*/
 
 .info-block a.button {
     margin-top: -20px;

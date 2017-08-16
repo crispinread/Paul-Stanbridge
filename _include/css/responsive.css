@@ -373,6 +373,10 @@
 	.info-text {
 		padding-right: 0;	
 	}
+	.title-page .title-description{
+		width: 100%;
+		text-align: center;
+	}
 }
 
 @media (max-width: 320px) {
@@ -387,6 +391,10 @@
 	#twitter-feed {
 		padding-top: 90px;
 		padding-bottom: 120px;	
+	}
+	.title-page .title-description{
+		width: 100%;
+		text-align: center;
 	}
 }
 
